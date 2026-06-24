@@ -2,7 +2,7 @@
 name: Suggest new Pipeline
 about: Use this template if you would like to add a new pipeline to APGAP.
 title: Pipeline addition request of < enter name >
-labels: ''
+labels: Pipeline Addition Request
 assignees: ''
 
 ---
