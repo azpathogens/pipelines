@@ -13,7 +13,7 @@ assignees: ''
 
 **Developers**: < enter responsible party here >
 
-**Is there an existing GitHub repository that we should clone?**
+**Is there an existing GitHub repository that we should fork?**
 <Yes | No > 
 
 If so, please provide link to the repository: < link >
